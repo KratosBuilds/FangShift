@@ -6,12 +6,12 @@ FangShift is a retro-inspired, cyberpunk-themed snake game built with Python and
 
 ## 🚀 Phase 1: Core Gameplay (v0.1 Alpha Build)
 
-🎯 Milestone: [v0.1 Alpha Build](https://github.com/yourusername/FangShift/milestone/1)
+🎯 Milestone: [v0.1 Alpha Build](https://github.com/kratosbuilds/FangShift/milestone/1)
 
 - [x] Basic snake movement and collision
-- [x] Add neon trail effect to snake segments ([Issue #1](https://github.com/yourusername/FangShift/issues/1))
-- [ ] Score tracking and UI overlay ([Issue #2](https://github.com/yourusername/FangShift/issues/2))
-- [ ] Visual polish: glowing grid and flicker effect ([Issue #3](https://github.com/yourusername/FangShift/issues/3))
+- [x] Add neon trail effect to snake segments ([Issue #1](https://github.com/kratosbuilds/FangShift/issues/1))
+- [ ] Score tracking and UI overlay ([Issue #2](https://github.com/kratosbuilds/FangShift/issues/2))
+- [ ] Visual polish: glowing grid and flicker effect ([Issue #3](https://github.com/kratosbuilds/FangShift/issues/3))
 
 ---
 
