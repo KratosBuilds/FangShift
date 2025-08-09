@@ -1,0 +1,18 @@
+# 🧩 Contributing to FangShift
+
+Thanks for checking out **FangShift**! Whether you're fixing bugs, adding features, or improving the game, we appreciate your help.
+
+---
+
+## 🚀 Quick Start
+
+1. **Fork the repo**  
+   [Go here](https://github.com/KratosBuilds/FangShift) and click "Fork."
+
+2. **Clone your fork**  
+   ```bash
+git clone https://github.com/your-username/FangShift.git
+cd FangShift
+pip install -r requirements.txt
+python fangshift.py
+```
